@@ -6,11 +6,11 @@ Use the formulas given below to rotate the hands according to the time </br></br
 # Formulas:
 For hour hand, </br>
 12 hr -> 360 deg </br>
- </br>1 hr -> 30 deg </br>
-for h </br>hour = 30h deg </br>
-60 min -> 30 deg </br> </br>
-1 min -> 1/2 deg </br> </br>
-for m min -> m/2 deg </br> </br>
+1 hr -> 30 deg </br>
+for h hour = 30h deg </br>
+60 min -> 30 deg </br> 
+1 min -> 1/2 deg </br> 
+for m min -> m/2 deg </br> 
 for h hour = (30h + m/2) deg -- (1) </br>
 </br> </br>
 For minute hand, </br>
