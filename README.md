@@ -21,3 +21,6 @@ For second hand, </br>
 60 sec -> 360 deg </br>
 1 sec -> 6 deg </br>
 s seconds -> 6s deg -- (3)
+
+<br />
+Link to access: https://divyanshrai00.github.io/Analog-Clock/
